@@ -48,7 +48,7 @@ Netlify status badge (add after you connect site)
 Once your Netlify site is connected you can add a deploy status badge to this README. Replace the placeholders with your Site ID and site name.
 
 ```markdown
-[![Netlify Status](https://api.netlify.com/api/v1/badges/<NETLIFY-SITE-ID>/deploy-status)](https://app.netlify.com/sites/<NETLIFY-SITE-NAME>/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f1ff921-bc06-416f-a838-a9ba830061ee/deploy-status)](https://app.netlify.com/sites/rad-arithmetic-32c2ca/deploys)
 
 ```
 
