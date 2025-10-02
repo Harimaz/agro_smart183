@@ -43,6 +43,14 @@ Netlify (recommended) — connect using the GitHub App (no secrets)
 Notes about contexts
 - `netlify.toml` includes settings for `production`, `deploy-preview`, and `branch-deploy` so Netlify builds previews with `NODE_ENV=development` and production with `NODE_ENV=production`.
 
+Netlify status badge (add after you connect site)
+
+Once your Netlify site is connected you can add a deploy status badge to this README. Replace the placeholders with your Site ID and site name.
+
+```markdown
+[![Netlify Status](https://api.netlify.com/api/v1/badges/<NETLIFY-SITE-ID>/deploy-status)](https://app.netlify.com/sites/<NETLIFY-SITE-NAME>/deploys)
+```
+
 Manual deploy (optional)
 
 If you prefer to deploy manually from your machine, you can use the Netlify CLI:
