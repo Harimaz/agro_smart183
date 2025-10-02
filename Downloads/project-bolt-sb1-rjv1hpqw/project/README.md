@@ -49,6 +49,7 @@ Once your Netlify site is connected you can add a deploy status badge to this RE
 
 ```markdown
 [![Netlify Status](https://api.netlify.com/api/v1/badges/<NETLIFY-SITE-ID>/deploy-status)](https://app.netlify.com/sites/<NETLIFY-SITE-NAME>/deploys)
+
 ```
 
 Manual deploy (optional)
